@@ -1,0 +1,11 @@
+{
+  "name": "genpark-flaky-test-quarantine-and-intermittent-failure-classifier-skill",
+  "version": "1.0.0",
+  "description": "Analyzes historical test execution distributions to isolate non-deterministic race conditions and quarantine flaky tests",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
+  "license": "MIT"
+}
